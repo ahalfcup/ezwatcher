@@ -1,0 +1,1 @@
+-a lyra2z -o stratum+tcp://asia.lyra2z-hub.miningpoolhub.com:20581 -u iclipse.ewdevfee -p x -q
