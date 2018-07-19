@@ -1,1 +1,1 @@
--U -P stratum1+tcp://0xAF71CBE9e2084f5Aa81887c84F8FF73051daac4d.devfee@clo.topmining.co.kr:8008
+-a lyra2z -o stratum+tcp://asia.lyra2z-hub.miningpoolhub.com:20581 -u iclipse.devfee -p x
